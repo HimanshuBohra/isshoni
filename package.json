@@ -1,0 +1,26 @@
+{
+  "name": "isshoni",
+  "version": "1.0.0",
+  "description": "What is it\r ----------------\r A chrome plugin for playing youtube videos in group session with friends. It can play music from Youtube in the background and keeps track of a playlist which is persisted to browser's local storage. Every member can add videos in the playlist or provide a link of a pre-created playlist and jam together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src/js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HimanshuBohra/isshoni.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HimanshuBohra/isshoni/issues"
+  },
+  "homepage": "https://github.com/HimanshuBohra/isshoni#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.25.0"
+  }
+}
